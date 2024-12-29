@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Doner Display';
+  src: url('./assets/fonts/doner-regulardisplay.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Doner Display Italics';
+  src: url('./assets/fonts/doner-regulardisplayitalic.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Doner Text';
+  src: url('./assets/fonts/doner-regulartext.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Doner Text Italic';
+  src: url('./assets/fonts/doner-regulartextitalic.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+body{
+  overflow-x: hidden;
+}
+
